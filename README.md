@@ -1,8 +1,3 @@
-
-Certainly, here's the README file for your project "Revenue Classification using Online Shopper's Intention" without the placeholders:
-
----
-
 # Revenue Classification using Online Shopper's Intention
 
 ## Project Overview
