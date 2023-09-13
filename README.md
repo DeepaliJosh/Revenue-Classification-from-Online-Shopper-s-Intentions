@@ -58,10 +58,7 @@ Your contributions to this project are greatly valued! If you encounter any issu
 
 ## Contact
 
-For any inquiries, questions, or collaborations related to this project, please feel free to contact us at [your-email@example.com].
+For any inquiries, questions, or collaborations related to this project, please feel free to contact  at [deepalijosh37@gmail.com].
 
 Thank you for your interest in this revenue classification project! We look forward to your contributions and hope you find this project insightful and valuable.
 
----
-
-Feel free to make further adjustments or additions to the README based on your preferences or specific project details.
